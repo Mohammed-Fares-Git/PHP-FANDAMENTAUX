@@ -4,7 +4,7 @@
     curl_setopt($curl,CURLOPT_RETURNTRANSFER,true);
     $headers = [
         'User-Agent: fares-mohammed',
-        'Authorization: Token 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', // Replace YOUR_ACCESS_TOKEN with your actual token
+        'Authorization: Token REPLACE THIS WITH YOUR OWN TOKEN', // Replace YOUR_ACCESS_TOKEN with your actual token
         'Content-Type: application/json', // Example header for specifying JSON content
         // Add more headers if needed
     ];
